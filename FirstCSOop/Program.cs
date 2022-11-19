@@ -42,6 +42,10 @@
             boss.fly();
             boss.goToHyperspace();
             boss.land();
+
+            // pause application at the end of execution
+            Console.ReadKey();
+
         }
     }
 }

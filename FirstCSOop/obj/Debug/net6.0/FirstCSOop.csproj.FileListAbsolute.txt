@@ -1,0 +1,15 @@
+C:\Users\D'\source\repos\FirstCSOop\bin\Debug\net6.0\FirstCSOop.exe
+C:\Users\D'\source\repos\FirstCSOop\bin\Debug\net6.0\FirstCSOop.deps.json
+C:\Users\D'\source\repos\FirstCSOop\bin\Debug\net6.0\FirstCSOop.runtimeconfig.json
+C:\Users\D'\source\repos\FirstCSOop\bin\Debug\net6.0\FirstCSOop.dll
+C:\Users\D'\source\repos\FirstCSOop\bin\Debug\net6.0\FirstCSOop.pdb
+C:\Users\D'\source\repos\FirstCSOop\obj\Debug\net6.0\FirstCSOop.csproj.AssemblyReference.cache
+C:\Users\D'\source\repos\FirstCSOop\obj\Debug\net6.0\FirstCSOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D'\source\repos\FirstCSOop\obj\Debug\net6.0\FirstCSOop.AssemblyInfoInputs.cache
+C:\Users\D'\source\repos\FirstCSOop\obj\Debug\net6.0\FirstCSOop.AssemblyInfo.cs
+C:\Users\D'\source\repos\FirstCSOop\obj\Debug\net6.0\FirstCSOop.csproj.CoreCompileInputs.cache
+C:\Users\D'\source\repos\FirstCSOop\obj\Debug\net6.0\FirstCSOop.dll
+C:\Users\D'\source\repos\FirstCSOop\obj\Debug\net6.0\refint\FirstCSOop.dll
+C:\Users\D'\source\repos\FirstCSOop\obj\Debug\net6.0\FirstCSOop.pdb
+C:\Users\D'\source\repos\FirstCSOop\obj\Debug\net6.0\FirstCSOop.genruntimeconfig.cache
+C:\Users\D'\source\repos\FirstCSOop\obj\Debug\net6.0\ref\FirstCSOop.dll

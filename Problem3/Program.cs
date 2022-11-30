@@ -10,7 +10,6 @@
 
       return result;
     }
-
   }
 
   class Program

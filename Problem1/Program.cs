@@ -9,16 +9,14 @@
 
       return result;
     }
-
   }
 
-  internal class Program
+  class Program
   {
     static void Main(string[] args)
     {
       Random rnd = new Random(5);
       var listForProblem = Enumerable.Range(1, 100).Select(i => rnd.Next() % 101);
-      //var listForProblem = Enumerable.Range(1, 10);
       var answer = Problem1.myFilter(listForProblem);
       foreach (int i in answer)
       {

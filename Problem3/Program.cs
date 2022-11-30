@@ -24,11 +24,6 @@
       var list3 = Enumerable.Range(3, 21).Select(i => rnd.Next() % 22).Where(i => (i % 2 != 0));
       var list4 = Enumerable.Range(5, 105).Select(i => rnd.Next() % 106).Where(i => (i % 5 == 0));
 
-      // foreach (int i in list4)
-      // {
-      //   Console.WriteLine(i);
-      // }
-
       var answer = Problem3.merge(list1, list2, list3, list4);
 
       foreach (int i in answer)

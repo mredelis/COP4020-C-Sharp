@@ -5,7 +5,7 @@
     public static IEnumerable<int> myFilter(IEnumerable<int> input)
     {
       IEnumerable<int> result;
-      result = input.Where(x => x % 5 == 0).Where(x => x < 50).Select(x => x * x * x).Where(x => x % 2 != 0);
+      result = input.Where(x => x % 5 != 0 || x <= 50).Select(x => x * x * x).Where(x => x % 2 != 0);
 
       return result;
     }

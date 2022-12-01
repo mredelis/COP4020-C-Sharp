@@ -6,7 +6,7 @@
     {
       IEnumerable<int> result;
 
-      result = input1.Union(input2).Union(input3).Union(input4).Where(i => i % 10 == 0);
+      result = input1.Intersect(input2).Intersect(input3).Intersect(input4).Where(i => i % 10 == 0);
 
       return result;
     }

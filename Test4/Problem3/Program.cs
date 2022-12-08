@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Problem3 // Note: actual namespace depends on the project name.
+namespace Problem3
 {
   class Program
   {

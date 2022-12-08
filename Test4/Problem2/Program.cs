@@ -8,7 +8,7 @@
     private float batavg;
     private void calcavg()
     {
-      batavg = runs / (innings + notout);
+      batavg = runs / (innings - notout);
     }
 
     public void readdata()
@@ -34,7 +34,7 @@
     public void displaydata()
     {
       Console.WriteLine("You have entered ");
-      Console.WriteLine("Batsman codde: {0}\nBatsman name: {1}\nInnings: {2}\nNotout: {3}\nRuns: {4}\nBating avarage: {4}", bcode, bname, innings, notout, runs, batavg);
+      Console.WriteLine("Batsman codde: {0}\nBatsman name: {1}\nInnings: {2}\nNotout: {3}\nRuns: {4}\nBating avarage: {5}", bcode, bname, innings, notout, runs, batavg);
     }
   }
 
